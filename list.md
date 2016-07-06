@@ -1,5 +1,5 @@
 Hello world
 -----------
 
-- [] To do list time
-  - [] to do subitem
+- [ ] To do list time
+  - [ ] to do subitem
